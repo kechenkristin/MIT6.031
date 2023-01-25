@@ -40,9 +40,11 @@ http://web.mit.edu/6.031/www/sp21/classes/04-code-review/
 
 - python test framework
 
-- test branch management
+- test branch management  
 (we have figured out how to manage unit test, but haven't provided a clear solution to integration test)
 
-- ide
+- ide  
 I highly recommand pycharm
+
+- log
 
