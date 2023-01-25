@@ -43,3 +43,6 @@ http://web.mit.edu/6.031/www/sp21/classes/04-code-review/
 - test branch management
 (we have figured out how to manage unit test, but haven't provided a clear solution to integration test)
 
+- ide
+I highly recommand pycharm
+
