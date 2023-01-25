@@ -4,6 +4,7 @@ Link: https://juejin.cn/post/6976633078714204167
 Source: Rare Earth Nuggets  
 Copyright belongs to the author. For commercial reprint, please contact the author for authorization, for non-commercial reprint, please indicate the source.
 
+![avatar](https://github.com/kechenkristin/SoftwareEngineering/blob/main/img/branchmanage.png)
 ## Instruction
 1. master - master branch
 - All official versions available to users are released on this master branch
